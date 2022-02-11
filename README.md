@@ -1,8 +1,8 @@
-# learnopengl-template
+# Class
 
-git clone --recursive https://github.com/EricWRogers/learnopengl-template.git
+git clone --recursive https://github.com/LostSauce/Class.git
 -or-
-git clone --recursive git@github.com:EricWRogers/learnopengl-template.git
+git clone --recursive git@github.com:LostSauce/Class.git
 
 
 ## DEPENDENCES
